@@ -1,0 +1,7 @@
+{
+  "@@locale": "en",
+  "noInternetConnection": "No Internet Connection",
+  "notFoundException": "Not found",
+  "welcome": "Welcome",
+  "hello": "Hello"
+}

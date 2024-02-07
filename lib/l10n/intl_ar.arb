@@ -1,0 +1,7 @@
+{
+  "@@locale": "ar",
+  "noInternetConnection": "لايوجد إتصال بالانترنت",
+  "notFoundException": "غير موجود",
+  "welcome": "مرحبا",
+  "hello": "مرحبا"
+}
